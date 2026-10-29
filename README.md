@@ -1,4 +1,4 @@
-#(screenshots/圆角logo.png "主页") 3D助手-基于端侧AI的三维场景重建系统
+#![logo](screenshots/圆角logo.png "logo") 3D助手-基于端侧AI的三维场景重建系统
 
 
 ## ✍介绍
