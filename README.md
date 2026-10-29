@@ -1,6 +1,6 @@
-# 基于MindSpore Lite实现端侧图像风格迁移
+# 3D助手-
 
-## 介绍
+## ✍介绍
 本示例基于`@ohos.ai.mindSporeLite`提供的ArkTS API，MindSpore Lite风格迁移模型完成端侧推理，实现“端侧图像风格迁移”示例程序。
 
 ## 效果预览
