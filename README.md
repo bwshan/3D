@@ -1,4 +1,4 @@
-#![logo](screenshots/圆角logo.png "logo") 3D助手-基于端侧AI的三维场景重建系统
+#<img src="screenshots/圆角logo.png" alt="My Image" width="200" height="200"/> 3D助手-基于端侧AI的三维场景重建系统
 
 
 ## ✍介绍
