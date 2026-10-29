@@ -1,8 +1,8 @@
-# <img src="screenshots/圆角logo.png" alt="My Image" width="100" height="100"/> 3D助手-基于端侧AI的三维场景重建系统
+# <img src="screenshots/圆角logo.png" alt="My Image" width="80" height="80"/> 3D助手-基于端侧AI的三维场景重建系统
 
 
 ## ✍介绍
-本示例基于`@ohos.ai.mindSporeLite`提供的ArkTS API，MindSpore Lite风格迁移模型完成端侧推理，实现“端侧图像风格迁移”示例程序。
+本项目是基于华为手机鸿基7系统的APP，通过对物体环绕拍照，生成三维场景模型。
 
 ## 效果预览
 | 主页                                                | 相册页                                                     | 原图预览页                                                          | 图像合成页                                                              |
