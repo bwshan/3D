@@ -1,4 +1,4 @@
-<img width="2583" height="81" alt="image" src="https://github.com/user-attachments/assets/f85ed9c8-8c06-4001-a335-c42f3d464ab1" /><img width="901" height="81" alt="image" src="https://github.com/user-attachments/assets/2ce21d31-8e67-496b-b41e-8f33cb538212" /># <img src="screenshots/圆角logo.png" alt="My Image" width="80" height="80"/> 3D助手-基于端侧AI的三维场景重建系统
+# <img src="screenshots/圆角logo.png" alt="My Image" width="80" height="80"/> 3D助手-基于端侧AI的三维场景重建系统
 
 
 ## ✍介绍
@@ -12,8 +12,8 @@
 
 
 
-## 效果预览
-| 主页                                                | 相册页                                                     | 原图预览页                                                          | 图像合成页                                                              |
+## 🔥使用说明
+| 系统开机                                 | 360度环绕拍照（保持照片连续性）                                 | 端侧3D重建(通常3-10分钟)                                         | 获得重建结果                                                              |
 |---------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------|
 | ![主页](screenshots/device/screenshot_001.png "主页") | ![相册页](screenshots/device/screenshot_002.png "相册页") | ![原图预览页](screenshots/device/screenshot_003.png "原图预览页") | ![图像合成页](screenshots/device/screenshot_004.png "图像合成页") |
 
