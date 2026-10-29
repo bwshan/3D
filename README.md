@@ -1,8 +1,16 @@
-# <img src="screenshots/圆角logo.png" alt="My Image" width="80" height="80"/> 3D助手-基于端侧AI的三维场景重建系统
+<img width="2583" height="81" alt="image" src="https://github.com/user-attachments/assets/f85ed9c8-8c06-4001-a335-c42f3d464ab1" /><img width="901" height="81" alt="image" src="https://github.com/user-attachments/assets/2ce21d31-8e67-496b-b41e-8f33cb538212" /># <img src="screenshots/圆角logo.png" alt="My Image" width="80" height="80"/> 3D助手-基于端侧AI的三维场景重建系统
 
 
 ## ✍介绍
 本项目是基于华为手机鸿基7系统的APP，通过对物体环绕拍照，生成三维场景模型。
+
+
+## 🌟系统要求
+1. 华为手机CPU为麒麟 9020/9030S/9030/9030 Pro 及后续旗舰芯片
+2. 操作系统鸿蒙(HarmonyOS)7以上
+3. 图像尺寸严格限制为 1080px × 1440px。图像格式为 RGB。需提供相机内参（focalX, focalY, principalX, principalY）及7维位姿（四元数+平移）。
+
+
 
 ## 效果预览
 | 主页                                                | 相册页                                                     | 原图预览页                                                          | 图像合成页                                                              |
