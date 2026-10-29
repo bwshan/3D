@@ -1,4 +1,4 @@
-<img width="765" height="105" alt="image" src="https://github.com/user-attachments/assets/3731148d-e352-4e26-b533-190fb7798395" /># 3D助手-基于端侧AI的三维场景重建系统
+#(screenshots/圆角logo.png "主页") 3D助手-基于端侧AI的三维场景重建系统
 
 
 ## ✍介绍
