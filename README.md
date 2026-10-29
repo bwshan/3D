@@ -1,4 +1,5 @@
-# 3D助手-
+<img width="765" height="105" alt="image" src="https://github.com/user-attachments/assets/3731148d-e352-4e26-b533-190fb7798395" /># 3D助手-基于端侧AI的三维场景重建系统
+
 
 ## ✍介绍
 本示例基于`@ohos.ai.mindSporeLite`提供的ArkTS API，MindSpore Lite风格迁移模型完成端侧推理，实现“端侧图像风格迁移”示例程序。
